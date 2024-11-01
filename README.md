@@ -8,7 +8,6 @@
 2. CSF Volume and Pressure: Intracranial pressure (ICP) and its effects on brain regions.
 3. CSF Composition: Growth factors (BDNF, nerve growth factor), proteins, and neurotransmitters.
 4. CSF Circulation and Glymphatic Function: Waste clearance efficiency and implications for brain health.
-   <br> The glymphatic system is a proposed model of waste clearence in the brain. 
 6. CSF pH and Ionic Composition: Balance of ions and pH related to neural activity and plasticity.
 7. CSF Involvement in Neuroinflammation: Inflammatory markers and their impact on neuroplasticity.
 8. CSF-Driven Mechanical Forces: Redistribution and mechanical impacts on neural structures.
